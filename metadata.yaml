@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4675
     wikipedia: http://en.wikipedia.org/wiki/James_Hutton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14179#Theory-of-the-Earth--13-With-Proofs-and-Illustrations-Volume-2--of-4-
 gutenberg_issued: '2004-11-27'
 gutenberg_type: Text
 identifiers:
