@@ -1,0 +1,28 @@
+_repo: Theory-of-the-Earth--13-With-Proofs-and-Illustrations-Volume-2--of-4-_14179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutton, James
+    alias: Hutton, Jacobus
+    birthdate: 1726
+    deathdate: 1797
+    gutenberg_agent_id: '4675'
+    url: http://www.gutenberg.org/2009/agents/4675
+    wikipedia: http://en.wikipedia.org/wiki/James_Hutton
+description: ''
+gutenberg_issued: '2004-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- Early works to 1800'
+- !lcc 'QE'
+title: "Theory of the Earth\r\nWith Proofs and Illustrations, Volume 2 (of 4)"
+url: http://www.gutenberg.org/ebooks/14179
